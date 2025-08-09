@@ -1,4 +1,4 @@
-# Holiday Purchase Prediction: Airline Customer Booking Analysis
+#  Airline Customer Booking Analysis
 
 ## 📌 Overview
 In today’s competitive travel industry, customers often make their booking decisions long before reaching the airport. Airlines need to **proactively identify potential buyers** rather than reactively targeting them at the point of departure.  
