@@ -20,7 +20,3 @@ The pipeline includes:
 - **Model Evaluation**: Reports accuracy, precision, recall, F1-score
 - **Interpretability**: Visualizes how each variable influences predictions
 
-
-
-
-## 📂 Project Structure
